@@ -9,10 +9,12 @@
   },
   "dependencies": {
     "core-js": "^3.6.4",
+    "firebase": "^7.13.1",
     "leaflet": "^1.6.0",
     "vue": "^2.6.11",
     "vue-choropleth": "^0.3.1",
     "vue2-leaflet": "^2.5.2",
+    "vuefire": "^2.2.2",
     "vuetify": "^2.2.19"
   },
   "devDependencies": {
